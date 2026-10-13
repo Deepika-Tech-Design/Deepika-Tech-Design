@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Deepika-Tech-Design/Deepika-Tech-Design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Deepika
+### Learning to code • Exploring design • Building ideas
 
-Here are some ideas to get you started:
+💜 Welcome to my little corner of GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🌸 About Me
+
+- 🎓 Student at VIT Chennai
+- 🌱 Learning through hands-on projects
+- 🎨 Interested in web development and interface design
+- 💡 Exploring technology that solves everyday problems
+
+---
+
+### 🚀 Project Spotlight
+
+**MoneyMesh**
+
+A finance dashboard prototype exploring money management
+and digital payment awareness.
+
+---
+
+### 🌱 Learning & Exploring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github&theme=dark" alt="HTML, CSS, JavaScript, Java, Git and GitHub" />
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Small steps. New skills. Better projects.
+
+[Explore My Repositories](https://github.com/Deepika-Tech-Design?tab=repositories)
+
+</div>
