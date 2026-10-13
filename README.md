@@ -1,44 +1,31 @@
+<!-- ================= HEADER ================= -->
+
 <div align="center">
 
-# Hi 👋 I'm Deepika
-### Learning to code • Exploring design • Building ideas
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=DEEPika%20TECH%20DESIGN&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Code%20%E2%80%A2%20Design%20%E2%80%A2%20Build%20%E2%80%A2%20Create&descAlignY=55"/>
 
-💜 Welcome to my little corner of GitHub!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Deepika;Computer+Science+Student+%F0%9F%8E%93;Web+Development+%26+AI+Enthusiast+%F0%9F%92%BB;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8"/>
+
+<br>
+
+### ✦ DESIGNING IDEAS. BUILDING EXPERIENCES. ✦
 
 </div>
 
 ---
 
-### 🌸 About Me
+## 👩‍💻 About Me
 
-- 🎓 Student at VIT Chennai
-- 🌱 Learning through hands-on projects
-- 🎨 Interested in web development and interface design
-- 💡 Exploring technology that solves everyday problems
-
----
-
-### 🚀 Project Spotlight
-
-**MoneyMesh**
-
-A finance dashboard prototype exploring money management
-and digital payment awareness.
-
----
-
-### 🌱 Learning & Exploring
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github&theme=dark" alt="HTML, CSS, JavaScript, Java, Git and GitHub" />
-</p>
-
----
-
-<div align="center">
-
-### ✨ Small steps. New skills. Better projects.
-
-[Explore My Repositories](https://github.com/Deepika-Tech-Design?tab=repositories)
-
-</div>
+```javascript
+const deepika = {
+    education: "VIT Chennai 🎓",
+    role: "Computer Science Student",
+    interests: [
+        "Web Development",
+        "UI/UX Design",
+        "Artificial Intelligence",
+        "Software Development"
+    ],
+    currentlyBuilding: "MoneyMesh 💸",
+    mindset: "Learn → Build → Improve → Repeat 🚀"
+};
